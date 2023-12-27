@@ -1,0 +1,49 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "productName": "Watch Nike Series 7",
+            "brand": "Apple",
+            "stock": 100,
+            "sales": 1234,
+            "price": "$399.00",
+            "status": true
+        },
+        {
+            "id": 2,
+            "productName": "iPhone 13 Pro",
+            "brand": "Apple",
+            "stock": 2,
+            "sales": 500,
+            "price": "$2,999.00",
+            "status": true
+        },
+        {
+            "id": 3,
+            "productName": "iPhone 12 mini",
+            "brand": "Apple",
+            "stock": 110,
+            "sales": 789,
+            "price": "$2,699.00",
+            "status": true
+        },
+        {
+            "id": 1,
+            "productName": "Airpods 3 Generation",
+            "brand": "Apple",
+            "stock": 10,
+            "sales": 2342,
+            "price": "$179.00",
+            "status": true
+        },
+        {
+            "id": 1,
+            "productName": "Galaxy Z Flip 5G",
+            "brand": "Samsung",
+            "stock": 245,
+            "sales": 90,
+            "price": "$399.00",
+            "status": true
+        }
+    ]
+}
